@@ -29,7 +29,7 @@ main()
 	}
 	if (max > 0) /* there was a line */
 		printf("%s", longest);
-		printf("\nMax length = %d", max); /* for testing */
+		printf("\nMax length = %d", max); /* for checking */
 	return 0;
 }
 
